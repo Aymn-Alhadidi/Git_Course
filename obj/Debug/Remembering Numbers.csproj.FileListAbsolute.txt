@@ -1,0 +1,12 @@
+D:\mohammed abohdhd\Remembering Numbers\bin\Debug\Remembering Numbers.exe.config
+D:\mohammed abohdhd\Remembering Numbers\bin\Debug\Remembering Numbers.exe
+D:\mohammed abohdhd\Remembering Numbers\bin\Debug\Remembering Numbers.pdb
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.csproj.AssemblyReference.cache
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.csproj.SuggestedBindingRedirects.cache
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering_Numbers.Form1.resources
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering_Numbers.Properties.Resources.resources
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.csproj.GenerateResource.cache
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.csproj.CoreCompileInputs.cache
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.exe
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering Numbers.pdb
+D:\mohammed abohdhd\Remembering Numbers\obj\Debug\Remembering_Numbers.StatsForm.resources
